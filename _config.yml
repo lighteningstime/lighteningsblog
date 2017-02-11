@@ -10,14 +10,14 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          /blog
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/lighteningstime
     external:     true
 highlighter:      pygments
 permalink:        pretty
-markdown:         redcarpet
+markdown:         
 redcarpet:
   extensions:
     - smart

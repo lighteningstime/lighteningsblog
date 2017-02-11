@@ -1,0 +1,873 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g_c",
+				"g_curr_state"
+			],
+			[
+				"light",
+				"light_set"
+			],
+			[
+				"dirty",
+				"dirtybit"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"readreg",
+				"readRegA"
+			],
+			[
+				"noo",
+				"NOOPINSTRUCTION"
+			],
+			[
+				"num",
+				"numMemory"
+			],
+			[
+				"mem",
+				"memory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 779,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.html",
+			"settings":
+			{
+				"buffer_size": 1060,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "feed.xml",
+			"settings":
+			{
+				"buffer_size": 839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile.lock",
+			"settings":
+			{
+				"buffer_size": 3146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 1077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 314.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/configuration.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/common/include/commandManager.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/common/include/zllDemo.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/Support_Plotting_1_1.c",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/WindowPlot.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/C55_setup.c",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_C5505_support.zip/C5505_support/control.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_C5505_support.zip/C5505_support/C5505.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/C5515_AIC3204_setup.c",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/C5515_inc/WindowPlot.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/C5515_inc/usbstk5515_led.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/InitializeC55xxCPU.c",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/C5515_UART.c",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/PlotSupport.h",
+		"/C/Users/Denny Zhang/AppData/Local/Temp/Temp1_display_fft.zip/display_fft/display_fft.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightColorControlCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightClusters.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightBasicCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLight.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/rgb.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightScenesCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightPdt.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightOnOffCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightLevelControlCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightColorControlCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightClusters.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightBasicCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/rgb.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightScenesCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightOnOffCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightLevelControlCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightIdentifyCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightGroupsCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/include/colorLightCommissioningCluster.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightGroupsCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightIdentifyCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/ColorLight/src/colorLightCommissioningCluster.c",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/common/include/buttons.h",
+		"/D/My Documents/Desktop/atmel/Light_1v3/Applications/ZLLDemo/common/include/debug.h",
+		"/E/Dropbox/Homework/452/lab5/freq_fir_filter.c",
+		"/E/Dropbox/Homework/452/lab4/FFT.c",
+		"/E/Dropbox/Homework/452/lab4/fir_filter.c",
+		"/E/Dropbox/Homework/452/lab4/TI_FIR.c",
+		"/E/Dropbox/Homework/452/lab4/lowpass.h",
+		"/E/Dropbox/Homework/373/hw4/main.c",
+		"/E/Dropbox/Homework/373/hw4/sort.h",
+		"/E/Dropbox/Homework/373/hw4/sort.c",
+		"/E/Dropbox/Homework/373/hw4/reverse_sort.c",
+		"/E/Dropbox/Homework/373/hw4/Makefile.txt",
+		"/E/Dropbox/Homework/452/hw2/problem1salt.m",
+		"/E/Dropbox/Homework/452/hw2/problem1.m",
+		"/D/My Documents/Desktop/Solar Git/Micro/2015/Firmware/Shared/hal/interrupts/spi.inc.cpp",
+		"/E/Dropbox/Homework/452/hw2/problem1salt.matlab",
+		"/E/Dropbox/Homework/452/lab3/main.c",
+		"/E/Dropbox/Homework/452/lab3/interrupts.c",
+		"/E/Dropbox/Homework/452/lab3/zigzag.c",
+		"/E/Dropbox/Homework/452/lab3/usbstk5515_interrupts.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/LightingV4/lighting.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/LightingV4/pinmap.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/LightingV4/lighting.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/LightingV4/config/FreeRTOSConfig.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/LightingV4/hal_it.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/CMSIS/Device/ST/STM32F4xx/Include/stm32f405xx.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_tim.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Src/stm32f4xx_hal_tim.c",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Telemetry/2012 Telemetry Code- Reference ONLY/HardwareProfile.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_tim_ex.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/pinmap.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/pinmap.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/hal_it.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/uart.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/can.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/can.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/i2c.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/common.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/uart_dma.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2015/Firmware/BMS/bms.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2015/Firmware/BMS/pinmap.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2015/Firmware/BMS/bms.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/lighting.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/lighting.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/main.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/config/hal_config.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32L4xx_HAL_Driver-1.6.0/Inc/stm32l4xx_hal_can.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32L4xx_HAL_Driver-1.6.0/Src/stm32l4xx_hal_can.c",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/uart.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/uart_dma.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/LightingL4.uvprojx",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/config/stm32l4xx_hal_conf.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/config/stm32f4xx_hal_conf.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/CMSIS/Device/ST/STM32L4xx/Source/system_stm32l4xx.c",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/config/FreeRTOSConfig.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Lighting/config/stm32l4xx_hal_conf_template.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/i2c.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_conf_template.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/tim.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/tim.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/spi.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/adc.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/adc.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/default_it.inc.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/gpio.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/gpio.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/hal.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/lock_guard.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/spi.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_spi.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32L4xx_HAL_Driver-1.6.0/Inc/stm32l4xx_hal_spi.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32L4xx_HAL_Driver-1.6.0/Inc/stm32l4xx_hal_gpio.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_gpio.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32L4xx_HAL_Driver-1.6.0/Inc/stm32l4xx_hal.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_adc.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/main.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/pinmap.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/pinmap.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/disco.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Inc/stm32f4xx_hal_uart.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/config/hal_config.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/interrupts/uart.inc.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/hal/interrupts/spi.inc.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/hal_it.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Src/stm32f4xx_hal_uart.c",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Templates/stm32f4xx_hal_msp_template.c",
+		"/D/My Documents/Desktop/Solar Git/Micro/2015/Firmware/Steering/steering.cpp",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Template-disco/config/stm32f4xx_hal_conf.h",
+		"/D/My Documents/Desktop/Solar Git/Micro/2017/Firmware/Shared/STM32F4xx_HAL_Driver-1.5.0/Src/stm32f4xx_hal_spi.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aps",
+			"APS_SetMasterKey",
+			"ZLL_SECURITY_KEY",
+			"/******************************************************************************",
+			"ZLL_SECURITY_KEY ",
+			"master key",
+			"tx_put",
+			"goto",
+			"GoTo",
+			"goto",
+			"compare",
+			"sort",
+			"TCR0_1",
+			"TCR0 1 isn't de\fned in the SPRUFO2 document under that name. Looking over the\ncode and that document, what is the name of that register in the document? What is\nits role?",
+			"ccr1",
+			"LEFT_A",
+			"__HAL_TIM_SET_COUNTER",
+			"TIM_Base_SetConfig",
+			"HAL_TIM_Base_Init",
+			"TIM_CLOCKDIVISION_DIV1",
+			"base_start",
+			"__HAL_TIM_ENABLE_IT",
+			"htim3->",
+			"htim1",
+			"htim1->",
+			"tim1",
+			"tick",
+			"CAN",
+			"class",
+			"handletypedef",
+			"HAL_UART_StateTypeDef",
+			"HAL_UART_GetState",
+			"state",
+			"Transmit",
+			"HAL_UART_Receive_DMA",
+			"dma",
+			"transmit",
+			"uart_parity",
+			"init",
+			"initi",
+			"initialize",
+			"baud",
+			"init",
+			"str_cpy(char",
+			"str_cpy( ",
+			"str_cpy(",
+			"mode_",
+			"af",
+			"init",
+			"dma",
+			"transmit_dma",
+			"buffer",
+			"transmit",
+			"TRANSMIT",
+			"transmit",
+			"error",
+			"checked_get_instance_from_handle",
+			"hspi",
+			"GPIO_NUMBER",
+			"GET_GPIO_SOURCE",
+			"hcd",
+			"dma",
+			"DMA",
+			"v9.0.0",
+			"freertos",
+			"freertps",
+			"1.6.0",
+			"RTE_DEVICE_STARTUP_STM32F4XX",
+			"debug",
+			"CMSIS-3.2.0",
+			"-8.2.0",
+			"target>",
+			"target",
+			"include",
+			"reshape",
+			"act_fns",
+			"assert",
+			"layer",
+			":position+10",
+			"code",
+			"test cases",
+			"from addr: 62",
+			"allocate",
+			"21 from addr: 59",
+			"311c311",
+			"load",
+			"memoryaccess",
+			"printcach",
+			"flow control",
+			"__HAL_UART_GET_IT_SOURCE",
+			"UART_InitTypeDef",
+			"USART_TypeDef",
+			"uart1",
+			"uart4",
+			"uart3",
+			"uart2",
+			"uart1",
+			"uartx",
+			"dma",
+			"dma_irqhandler",
+			"dma",
+			"uart",
+			"USART_Clock",
+			"USART_Clock_Polarity",
+			"mode",
+			"USART_InitTypeDef",
+			"Init ",
+			"USART_InitTypeDef",
+			"USART_HandleTypeDef",
+			"USART_InitTypeDef",
+			"init ",
+			"dma",
+			"2",
+			"dma",
+			"usart_1",
+			"hspi",
+			"UART",
+			"lru",
+			"failed",
+			"allocate",
+			"failed to find block in cache!",
+			"block",
+			"failed to find block in cache!",
+			"failed",
+			"failed ",
+			"to the memory",
+			"action",
+			"exit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"6",
+			"3",
+			"husart",
+			"USART",
+			"cacheBlock",
+			"sPtr",
+			"mem",
+			"\\n",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "404.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "feed.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Gemfile.lock",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "LICENSE",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Rakefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
