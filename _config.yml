@@ -11,7 +11,6 @@ links:
     url:          /about
   - name:         Blog
     url:          /
-    external:     true
   - name:         GitHub
     url:          http://github.com/lighteningstime
     external:     true
