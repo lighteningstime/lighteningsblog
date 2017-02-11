@@ -2,25 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "images"
-		},
-		{
-			"path": "_posts"
-		},
-		{
-			"path": "javascripts"
-		},
-		{
-			"path": "stylesheets"
-		},
-		{
-			"path": "_assets"
-		},
-		{
-			"path": "_includes"
-		},
-		{
-			"path": "_layouts"
+			"path": "."
 		}
 	]
 }
