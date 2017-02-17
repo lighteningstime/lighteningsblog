@@ -13,8 +13,8 @@ and with that I want to leave a question: "what is one thing you like about your
 One thing today was watching a pair of people tag team returning a fallen glove. 
 
 > Person A: "Did she just drop that?" ~goes to pick up the glove~ 
->
-> Person B: "I think so" ~tries to get her attention"
+> 
+> Person B: "I think so" ~tries to get her attention~
 
 All in all one of those nice things to witness, except that I was just the dumb bystander who was only watching.
 
