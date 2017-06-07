@@ -1,0 +1,14 @@
+---
+layout: post
+title: Neediness
+date: 2017-06-06 16:58:35
+---
+
+Feeling needy. Or more accurately I have, as many people do, a desire to feel wanted and desired. Not having that makes me feel somewhat empty inside, and I understand it and welcome it. Now what is there to do about it?
+Maybe a part of my personality is to stay alone, so that someone may find me. Or that this means there is no way to be rejected when you do not seek others. But there must be some kind of balance between needing and enjoying. I am almost certain that some part of me will always enjoy the good company of others, of some feeling of comfort and contentness in the presence of another. Humans are made that way. So then, is it just circumstances that brings us from that natural state of being.
+
+One more thing is to never hate at life, it has idea what the hell it is doing. In trying to explore consciousness, it would seem that nature itself has no plans, has no intention, has no malice. Things are just what they are. Usually randomness in the universe, but the outcomes must filter through out mind's interpretation as to how good or bad of a thing has happened, and that in itself gives the events meaning. If we were to say for some reason that dust landing in one section of my desk was a good thing, and bad in another. It would appear completely arbitrary, and nature itself has no distinction between either. And so it is with all other occurances. Say that if lightning were to strike your exact position, it would seem like willful malice and purposeful destruction. But the spot you stand on is just about the same probability as everywhere else in the field. besides your added electrical attraction. And so it is thus, looking for patterns behind the events to discern some kind of cause or correlation, but never curse the skies for their intent is never to harm, it is just that there is no intent, and I should be glad that the universe in all its randomness has allowed me to be. 
+
+But back to it, can that apply at all? I don't think people are as intentionless as nature, but actually for the most part, one can say, "Get out of your own head. Not everything revolves around you". And in fact, that does happen to be true a lot of the time, and even if it is not, it is still helpful to have that perspective. Look for patterns, not causes. Mostly there is not malicious intent in how others act towards you, they do not know the inner ticking of your soul, and will not have the perfect model of how you might react. In fact, it would not be fair to require such knowledge. It would definitely be a good skill to learn in reading people and attempting to inhabit another's mind while only seeing their external face.
+
+Though that fact makes it all the more important to communicate and always always ask. Telepathy is not yet a reality, so words are the best that we can do with, which means, talk more. ask more, give more, live more, love more. (much fun)
