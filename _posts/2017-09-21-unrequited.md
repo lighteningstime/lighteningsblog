@@ -9,7 +9,7 @@ Let's just say, I do really enjoy spending my time hanging out with you, and I s
 
 The truth is that these feelings are like one of those ugly hairless cats, wen anything like real love, romantic or not, are like normal cats. So it's time to throw it out and let it go, or grow some hair and join more proper ranks. 
 
-Well, the plan now is to keep some distance, physically is easy, but mentally is harder. And then come back to it in a few months, and reevaluate all these emotions, to live through them again, and understand deeply what happened, and how and why and what you still mean to me. Wheether it really is still worth trying. (me right now hopes so). And come to know it all very well. So maybe I'll do the same, wait until I don't feel so lonely, and see if I still want to know you. Maybe I'm jsut Matt. 
+Well, the plan now is to keep some distance, physically is easy, but mentally is harder. And then come back to it in a few months, and reevaluate all these emotions, to live through them again, and understand deeply what happened, and how and why and what you still mean to me. Whether it really is still worth trying. (me right now hopes so). And come to know it all very well. So maybe I'll do the same, wait until I don't feel so lonely, and see if I still want to know you. Maybe I'm just Matt. 
 
 Thanks for the well wishes. 
 
