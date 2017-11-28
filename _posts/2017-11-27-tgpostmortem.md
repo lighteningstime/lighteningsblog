@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanksgiving Post Mortem 
-date: 2017-09-11 14:48:17
+date: 2017-11-27 23:59:59
 ---
 
 I think I feel more at peace with myself than I have in a long long time. 
