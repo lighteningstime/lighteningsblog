@@ -1,0 +1,15 @@
+---
+layout: post
+title: Reflection
+date: 2022-04-23 13:06:32
+---
+
+It's your birthday party day. And you're turning 28 now. I think in our current emotional state, it feeeeeels like things are not going well, but there's that big hope with hannah that helps to lift some of that gloom.
+
+But there is something about being able to look backwards in time and see clearly the work that has been done, and the path that has been taken. We don't have to be all that generous to say that in the longer view, it's been a hell of a journey to get to here. And yes, it's been difficult and slow at times, but the change comes in fits and starts. And it is true that it is not difficult to imagine what you were like before and how you managed to cope without what you have now. If we want to break things into distinct checkpoints, this whole year of seeing hannah has been the process of opening up and being vulnerable. To harness the power of your emotions and to direct them at will, both in that focused love for hannah as well as learning the pick-up stuff in taking that same energy and pouring it into a stranger. So far we've managed to unshackle our emotional self from the numbing and to walk through the pain reach it. Gaining access to the feelings and the ability to see it mirrored in others, which is emotional self-reflection? and emotional attunement. This stage is about harnessing the power it provides and using it to improve my own life as well as others. After that? Who knows. 
+
+There is the expansion of your own life. Make more friends, and find the ones that can keep up with your emotionality, your vulnerability, who are the type that can build you up and care for real. You learn your lessons. And move forward quickly. Listen to your heart. But really now, it's that you need to put yourself out there. Practice facing that fear of meeting new people. I would think that most people will like me for who I am, because I'm actually quite worth it.
+
+We are still shaky in some of these respects, you don't have full control of your inner emotional mirror, or maybe you shouldn't ever. When the body signals that you want to leave due to the emotional environment, maybe that is your cue to walk away, and consciously ignoring such a thing is like holding your hand on a hot stove. That would be mostly in regards to the environment at home ... or really all of our homes. You have your one mistake to figure out with flea, but otherwise, are the rest your responsibility?
+
+To figure out how to help your own parents. To figure out how to help with bertina, or jerry and jenna and kiki. You see. You are burdened with the knowledge. That only tugs at your heartstrings, but it doesn't assign the responsibilty to you. Perhaps it is your responsibility to spread the knowledge, and that changing another is not, it could not be. It just isn't possible. 

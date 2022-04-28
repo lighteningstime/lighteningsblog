@@ -1,0 +1,33 @@
+---
+layout: post
+title: Love Letter
+date: 2022-04-25 00:13:08
+---
+
+Hannah, 
+
+I had a big realization. 
+I can't be friends with you.
+Because I love you too much, and it would probably hurt me to still know you, but not get to be closer to you.
+I've spent this time missing you a lot, but also reflecting and thinking and perhaps just ruminating, but also tearing these feelings out of my heart, and trying to move on with my life. 
+And it's taking a lot longer than I had hoped.
+
+__You finally realized you loved me now? why now? why so late?__
+
+Hah, well that's not it. I've known it for a long time. In both my heart and my mind. It might be more clear to go all the way back. 
+That very first time we met (the second time). I knew I liked you a lot, and I definitely wanted to get to know you better. (We like spent a long time enjoying the company, and after so much time in the car, also dinner, and also the walk and just chilling.  I forgot to text my parents I had made it home, cuz i didn't...). As we got closer, I had to contend with my own feelings and the whole "I'm not ready for something serious right now." but also that I really like this girl, and it's kind of moving into a FWB thing... So to do that well, I need to not let myself get too attached. Which meant for me, putting up walls to stop us from getting too close, and time bounds so we wouldn't spend too much time together. And it worked for awhile. I maintained the feeling that I liked you a lot. A lot a lot even, but my heart wouldn't fall all the way if I kept my walls up. And that did work as intended. That first time you walked away, I remember feeling a little heartbroken for a day or two, and then I was fine. Like I had lost a good friend, but my life didn't feel like it would fall apart. That changed with that talk in April, or really your quick comments about how you didn't even think I was interested in you as a friend even. I took that to heart, and I decided to let some of my walls down. You were asking in a way, and I wanted to get closer to you too. So throwing caution to the wind, I let myself open up, and be more vulnerable with you, to be more boyfriend-like. But I tried to maintain the time separation. On the account of giving you enough time to go date other guys. I couldn't take up all of your time. So, in that way I relegated myself to your Sundays, though we did end up spending more than that together. From that point in April, my love for you was free to grow, and by around june/july, my mind realized that I loved you. There wasn't any distinct moment in time for me, so it's all a little fuzzy. I do remember the train of thought was, "I'm afraid that if we got together, that would be it. But I was supposed to go figure out how to do pickup and date people, how is that going to work?" Which includes the sentiment of: "I love you Hannah, I think I could end up with you." inside of it. I'm not even sure if I said that to you, or only thought it. But, I also held that in. In general it was problematic, because I can't just say "hey, I love you, but I'm not ready yet" can i? Although some of that hesitation might be related to a different thought. And then after it broke down, I held it in. Mostly stopping myself from using an "I love you" as a weapon. The words feel cheapened when there is an agenda behind it. And I wanted the words to bubble out in a tender moment, solely because it was the truth, and for no other reason. 
+
+And I can guarantee you that I love you at least 10 times more than Kevin ever will. Because you've characterized him as someone not in touch with his emotions. Without that, it is impossible to love deeply. And you get something that is a shallow kind of love, that looks and sounds similar on the surface, but you could feel the difference in impact. (Which is a whole other conversation that we need to have). And well, that's my big realization. That If I didn't tell you, you might never come to understand the depths of my love for you Hannah. It's what I was hoping you could figure out if you reflected on it. I assumed that given the huge disparity in depth, you could tell the difference, because it is obvious to me. Which means that Hannah, I love you more than you even know. And you don't have to take my word for it. I know it's clear it doesn't register with you, but you can clearly see the side-effects of my love. And maybe that clears up some of the fog. 
+
+It appears in your lust, your horniness around me. Where I've said before, love and lust are two sides of the same coin, and they grow in proportion to other. So you can get a feel for love by how easily you get so wet with me. And it's the same love that you feel that makes it so damn easy for you to come for me. Because that interaction happens on the emotional level, and your heart can feel how much I love you. 
+It also shows up less explicitly in other physical aspects. From the latest things, like your spontaneous hand-holding (in the car from roller skating) (even when you weren't supposed to), or that irresistible urge to come snuggle up with me (also not allowed). The extra long hug in the train station. And even your cheerfulness and bubbliness in new york. It shows up in the messenger bag/purse/fanny pack/backpack, and in all of the regular snuggling and cuddling that we do. The desire to be touching, like all the time. It appears because the love is strong. 
+And also less obviously, those things you told me about. In feeling fully present and awake around me, like being 100% here with me. Instead of your usual spaciness. Which your self-description as kind of spaced out never quite clicked with me because you didn't do that around me, same with being tsundere. (also things to talk about) 
+Even... I thought your summer of fun was also powered by your feeling loved. Instead of your rationalization of an identity crisis. Feeling loved in the way that I can do, feels nourishing for the soul, and provides for motivation and newfound energy to go out and have fun.
+All of those things come as side-effects of my love for you, and how powerful it is. 
+And that is why I've been so confused by your choice. That there is clearly a better option, and you decided not to take it. 
+
+And, well. Hopefully now that my side is more clear to you, it is as obvious to you as it is to me.
+And well, going his way is more compatible with who you are right now. 
+Being with me comes with the possibility of being disgustingly in love at 80. But also a lot of further discussions and pushing you into new places that you've never gone yourself, which might be painful, and might be uncomfortable.
+
+Hannah, I love you so much, even now, so much more than you even know. 
