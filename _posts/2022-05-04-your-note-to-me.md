@@ -1,0 +1,11 @@
+---
+layout: post
+title: Your note to me
+date: 2022-05-04 16:39:59
+---
+
+I was happy during the month or two we didn’t meet, thinking that I could just put the past behind and move on. But then here we are. 
+Honestly, I really cherish Kevin and truly love him. I’ve had a history of terrible relationships and breakups that leave me traumatized in some area, forever engraved in the back of my mind somewhere. But Kevin is different. I like how he handles conflict, I like how things are sexually, and we simply just click in terms of personality, more than anyone I’ve been with. I want to protect him and protect everything that we have built, even at the cost of my guilt. 
+You say that Kevin deserves to know and yeah I would agree with that in a righteous sense. However, just because something is fair doesn’t mean that it is the best action to take. I don’t want to leave Kevin with something that will scar him for the rest of his life, and yes, this is selfish, but I don’t want to lose something that is a relationship that i used to only dream about. Even if I don’t tell him, the relationship isn’t fake, because I’ve learned my lesson and am never going to do anything like this again. 
+If I tell him and he stays with me, nothing will be the same anymore. And if he leaves me, then I’m in the same situation, where I’d have to lie to everyone else that I meet and I have to hide from you so you don’t go threatening me that you will unearth my past. After everything that has gone on between us, I will never go back to you. You may think that getting everything out there will make me feel better, but it won’t. The deed is done and the past can’t be changed. We have to learn from our mistakes and move on. 
+I really hope that you have a big heart and can close this time of your life. I don’t want to remember you negatively and have all this overshadow the good times we had. Maybe you want to tell him because you think it will fix our guilt, or maybe it makes you happy to destroy my bright and sunny relationship. Either way, nothing you actively do right now will ease any pain or guilt you are feeling. Only time and a change of mentality will fix you. 
